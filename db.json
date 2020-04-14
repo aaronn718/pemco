@@ -1,12 +1,18 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Employee",
-      "Profiles": [{"Name": "John", "Title": "Boss", "Years": "10"}]
-    }
-  ],
-  "profile": {
-    "name": "pemco"
-  }
+   "posts":[
+      {
+         "id":1,
+         "title":"Employee",
+         "Profiles":[
+            {
+               "Name":"John",
+               "Title":"Boss",
+               "Years":"10"
+            }
+         ]
+      }
+   ],
+   "profile":{
+      "name":"pemco"
+   }
 }
