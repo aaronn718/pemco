@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Employee",
-      "Profiles": [{Name: "John", Title: "Boss", Years: 10}]
+      "Profiles": [{Name: "John", Title: "Boss", Years: "10"}]
     }
   ],
   "profile": {
