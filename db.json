@@ -2,7 +2,7 @@
    "posts":[
       {
          "id":1,
-         "title":"Employee",
+         "title":"Employees",
          "Profiles":[
             {
                "Name":"John",
@@ -20,7 +20,25 @@
                "Years":"2"
             }
          ]
-      }
+      },
+	  {
+         "id":2,
+         "title":"Cities",
+         "Profiles":[
+            {
+               "Name":"Seattle",
+               "State":"Washington",
+            },
+            {
+               "Name":"Portland",
+               "State":"Oregon",
+            },
+			{
+               "Name":"San Francisco",
+               "State":"California",
+            },
+         ]
+      },
    ],
    "profile":{
       "name":"pemco"
