@@ -21,24 +21,24 @@
             }
          ]
       },
-	  {
+      {
          "id":2,
          "title":"Cities",
          "Profiles":[
             {
                "Name":"Seattle",
-               "State":"Washington",
+               "State":"Washington"
             },
             {
                "Name":"Portland",
-               "State":"Oregon",
+               "State":"Oregon"
             },
-			{
+            {
                "Name":"San Francisco",
-               "State":"California",
-            },
+               "State":"California"
+            }
          ]
-      },
+      }
    ],
    "profile":{
       "name":"pemco"
